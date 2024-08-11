@@ -11,7 +11,7 @@ Passionate about technology and problem-solving, I view my work as an opportunit
 - **Research and Analysis:** Ability to identify the root cause of complex issues and propose effective solutions.
 - **Problem Solving:** Experience in resolving both software and hardware problems.
 - **Programming:** Knowledge of various programming tools.
-- **Linux CLI:** Proficient in command line operations in Linux systems.
+- **CLI:** Proficient in command line operations in PowerShell or Linux systems.
 - **AWS Technologies:** Experience with AWS services and tools.
 
 ### **🏫 Education**
