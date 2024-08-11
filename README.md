@@ -36,9 +36,6 @@ Passionate about technology and problem-solving, I view my work as an opportunit
 - **English:** B2
 
 ### **📫 Contact**
-
-- **Phone:** (506) 8350-4511
 - **Email:** Janrosky@gmail.com
-- **LinkedIn:** [Your LinkedIn URL]
-- **GitHub:** [Your GitHub URL]
-- **Credly:** [Your Credly URL]
+- **LinkedIn:** www.linkedin.com/in/chaconjky
+- **Credly:** https://www.credly.com/users/chaconjky
