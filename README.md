@@ -1,32 +1,44 @@
-###👋 Hola, soy Alejandro Chacón
-##💻 Tech Support / Cloud Practitioner
-Resumen de Perfil
-Apasionado por la tecnología y la resolución de problemas, veo mi trabajo como una oportunidad de hacer lo que me gusta y colaborar con la sociedad. Me especializo en la identificación y resolución de problemas técnicos, y disfruto aprendiendo y aplicando nuevas tecnologías en mi día a día.
+# 👋 Hi, I'm Alejandro Chacón
 
-##🛠️ Habilidades y Tecnologías
-Investigación y Análisis: Habilidad para identificar la raíz de problemas complejos y proponer soluciones efectivas.
-Solución de Problemas: Experiencia en resolución de problemas tanto en software como en hardware.
-Programación: Conocimientos en diversas herramientas de programación.
-Linux CLI: Dominio de la línea de comandos en sistemas Linux.
-Tecnologías de AWS: Experiencia con servicios y herramientas de AWS.
-##🏫 Educación
-Bachillerato | Colegio Vocacional De Artes y Oficios, Cartago | 2017-2019
-Estudios Técnicos | Colegio Vocacional De Artes y Oficios, Cartago | 2017-2019
-Estudios de Idioma | Centro Cultural Costarricense-norteamericano | 2020-2021
-Estudios Universitarios | Universidad Estatal a Distancia (TI) | 2022-2023
-Certificaciones | Elev8 Education | AWS/Re-Start | 2023
-##🏢 Experiencia Laboral
-Técnico Automotriz | Autostar-Vehículos | Enero 2019 – Noviembre 2019
-Analicé y solucioné distintos problemas relacionados con el funcionamiento de sistemas automotrices.
+## 💻 Tech Support / Cloud Practitioner
 
-Técnico de Soporte | Concentrix | Septiembre 2020 – Junio 2022
-Brindé soporte e implementé procesos de solución de problemas técnicos relacionados con software y hardware.
+### **Profile Summary**
 
-##🌍 Idiomas
-Español: Nativo
-Inglés: B2
-##📫 Contacto
-Teléfono: (506) 8350-4511
-Email: Janrosky@gmail.com
-LinkedIn: www.linkedin.com/in/chaconjky
-Credly: https://www.credly.com/users/chaconjky 
+Passionate about technology and problem-solving, I view my work as an opportunity to do what I love and contribute to society. I specialize in identifying and resolving technical issues, and I enjoy learning and applying new technologies in my daily work.
+
+### **🛠️ Skills and Technologies**
+
+- **Research and Analysis:** Ability to identify the root cause of complex issues and propose effective solutions.
+- **Problem Solving:** Experience in resolving both software and hardware problems.
+- **Programming:** Knowledge of various programming tools.
+- **Linux CLI:** Proficient in command line operations in Linux systems.
+- **AWS Technologies:** Experience with AWS services and tools.
+
+### **🏫 Education**
+
+- **High School Diploma** | Colegio Vocacional De Artes y Oficios, Cartago | 2017-2019
+- **Technical Studies** | Colegio Vocacional De Artes y Oficios, Cartago | 2017-2019
+- **Language Studies** | Centro Cultural Costarricense-norteamericano | 2020-2021
+- **University Studies** | Universidad Estatal a Distancia (IT) | 2022-2023
+- **Certifications** | Elev8 Education | AWS/Re-Start | 2023
+
+### **🏢 Work Experience**
+
+- **Automotive Technician** | Autostar-Vehículos | January 2019 – November 2019  
+  Analyzed and resolved various issues related to the functioning of automotive systems.
+
+- **Support Technician** | Concentrix | September 2020 – June 2022  
+  Provided support and implemented problem-solving processes for technical issues related to software and hardware.
+
+### **🌍 Languages**
+
+- **Spanish:** Native
+- **English:** B2
+
+### **📫 Contact**
+
+- **Phone:** (506) 8350-4511
+- **Email:** Janrosky@gmail.com
+- **LinkedIn:** [Your LinkedIn URL]
+- **GitHub:** [Your GitHub URL]
+- **Credly:** [Your Credly URL]
