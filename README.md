@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Alejandro Chacón
 
 ## 💻 Tech Support / Cloud Practitioner
-### My StartUp://janrosky.github.io/NexTekCr/index.html
+### My StartUp: //janrosky.github.io/NexTekCr/index.html
 
 ### **Profile Summary**
 
