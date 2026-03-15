@@ -2,7 +2,6 @@
 
 ## 💻 Tech Support / Cloud Practitioner
 ### My personal Web: https://janrosky.github.io/NexTekCr/index.html
-### Web Project in Azure https://proyectoconsultorio.azurewebsites.net/
 
 ### **Profile Summary**
 
