@@ -25,6 +25,10 @@ Portfolio showcasing projects, skills, and professional background.
 https://grade-book-jky.vercel.app  
 Web application designed to manage **classes, assignments, and grades** in an organized and efficient way.
 
+💰 **Envelope Budget App**  
+https://finanzas-jky.vercel.app/  
+Personal finance web app that uses the **envelope budgeting method** to help organize expenses and track available funds.
+
 ---
 
 # 🧰 Technologies & Tools
