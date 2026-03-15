@@ -7,21 +7,21 @@ I enjoy building tools that improve workflows, automate processes, and support *
 
 ---
 
-# 🚀 Featured Projects / Apps
+# 🚀 Featured Projects
 
 📄 **Electronic Invoice App**  
 https://factura-electronica-jky.vercel.app  
-Web application for electronic invoicing and business management.
+Web application for **electronic invoicing and small business management**.
 
 📊 **Weekly Kanban App**  
 https://kanban-jky.vercel.app  
-Productivity tool for organizing tasks and managing workflow.
+Productivity tool for **organizing tasks and managing workflow using a Kanban board**.
 
 🌐 **Personal Portfolio Website**  
 https://janrosky.github.io/NexTekCr/index.html  
-Portfolio showcasing projects, skills, and professional background.
+Portfolio showcasing **projects, technical skills, and professional background**.
 
-📊 **GradeBook App**  
+📚 **GradeBook App**  
 https://grade-book-jky.vercel.app  
 Web application designed to manage **classes, assignments, and grades** in an organized and efficient way.
 
