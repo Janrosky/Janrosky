@@ -21,6 +21,10 @@ Productivity tool for organizing tasks and managing workflow.
 https://janrosky.github.io/NexTekCr/index.html  
 Portfolio showcasing projects, skills, and professional background.
 
+📊 **GradeBook App**  
+https://grade-book-jky.vercel.app  
+Web application designed to manage **classes, assignments, and grades** in an organized and efficient way.
+
 ---
 
 # 🧰 Technologies & Tools
