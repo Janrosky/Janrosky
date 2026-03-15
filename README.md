@@ -2,7 +2,7 @@
 
 ## 💻 Tech Support / Cloud Practitioner
 ### My personal Web: https://janrosky.github.io/NexTekCr/index.html
-### Weekly Kanban App: kanban-jky.vercel.app
+### Weekly Kanban App: https://kanban-jky.vercel.app
 
 ### **Profile Summary**
 
