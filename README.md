@@ -5,7 +5,7 @@
 ### App Factura Electrónica https://factura-electronica-jky.vercel.app
 
 ### My personal Web: https://janrosky.github.io/NexTekCr/index.html
-### Weekly Kanban App: https://kanban-jky.vercel.app
+### App Weekly Kanban: https://kanban-jky.vercel.app
 
 ### **Profile Summary**
 
