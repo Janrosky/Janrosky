@@ -7,7 +7,7 @@ I enjoy building tools that improve workflows, automate processes, and support *
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Projects / Apps
 
 📄 **Electronic Invoice App**  
 https://factura-electronica-jky.vercel.app  
