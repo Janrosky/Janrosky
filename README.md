@@ -18,7 +18,7 @@ https://kanban-jky.vercel.app
 Productivity tool for **organizing tasks and managing workflow using a Kanban board**.
 
 🌐 **Personal Portfolio Website**  
-https://janrosky.github.io/NexTekCr/index.html  
+https://acg-nextek.vercel.app
 Portfolio showcasing **projects, technical skills, and professional background**.
 
 📚 **GradeBook App**  
