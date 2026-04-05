@@ -10,27 +10,27 @@ I enjoy building tools that improve workflows, automate processes, and support *
 # 🚀 Featured Projects
  
 🌐 **Personal Portfolio Website**
-https://acg-nextek.vercel.app
+https://acg-nextek.vercel.app  
 Portfolio showcasing **projects, technical skills, and professional background**.
  
 📄 **Electronic Invoice App**
-https://factura-electronica-jky.vercel.app
+https://factura-electronica-jky.vercel.app  
 Web application for **electronic invoicing and small business management**.
  
 🍷 **MOSTO — Mesa, Fuego & Origen**
-https://mosto-landing.vercel.app
+https://mosto-landing.vercel.app  
 Cinematic **landing page example** showcasing premium web design with scroll animations, custom cursor, and interactive menu — built for a Costa Rican origin-cuisine restaurant.
  
 📊 **Weekly Kanban App**
-https://kanban-jky.vercel.app
+https://kanban-jky.vercel.app  
 Productivity tool for **organizing tasks and managing workflow using a Kanban board**.
  
 📚 **GradeBook App**
-https://grade-book-jky.vercel.app
+https://grade-book-jky.vercel.app  
 Web application designed to manage **classes, assignments, and grades** in an organized and efficient way.
  
 💰 **Envelope Budget App**
-https://finanzas-jky.vercel.app/
+https://finanzas-jky.vercel.app/  
 Personal finance web app that uses the **envelope budgeting method** to help organize expenses and track available funds.
 
 ---
