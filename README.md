@@ -13,7 +13,7 @@ I enjoy building tools that improve workflows, automate processes, and support *
 https://acg-nextek.vercel.app  
 Portfolio showcasing **projects, technical skills, and professional background**.
  
-📄 **Electronic Invoice App**  
+📄 **Invoice App**  
 https://factura-electronica-jky.vercel.app  
 Web application for **electronic invoicing and small business management**.
  
