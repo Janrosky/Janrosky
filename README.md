@@ -21,18 +21,6 @@ Web application for **electronic invoicing and small business management**.
 https://mosto-landing.vercel.app  
 Cinematic **landing page example** showcasing premium web design with scroll animations, custom cursor, and interactive menu — built for a Costa Rican origin-cuisine restaurant.
  
-📊 **Weekly Kanban App**  
-https://kanban-jky.vercel.app  
-Productivity tool for **organizing tasks and managing workflow using a Kanban board**.
- 
-📚 **GradeBook App**  
-https://grade-book-jky.vercel.app  
-Web application designed to manage **classes, assignments, and grades** in an organized and efficient way.
- 
-💰 **Envelope Budget App**  
-https://finanzas-jky.vercel.app/  
-Personal finance web app that uses the **envelope budgeting method** to help organize expenses and track available funds.
-
 ---
 
 # 🧰 Technologies & Tools
