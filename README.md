@@ -18,7 +18,7 @@ https://factura-electronica-jky.vercel.app
 Web application for **electronic invoicing and small business management**.
  
 🍷 **MOSTO — Mesa, Fuego & Origen**  
-https://mosto-landing.vercel.app  
+https://mosto-cafe.vercel.app
 Cinematic **landing page example** showcasing premium web design with scroll animations, custom cursor, and interactive menu — built for a Costa Rican origin-cuisine restaurant.
  
 ---
