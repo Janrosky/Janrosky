@@ -129,12 +129,6 @@ English — B2
 
 ---
 
-# 📊 GitHub Stats
-
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Janrosky&layout=compact&hide_border=true&langs_count=8)
-
----
-
 # 📫 Connect With Me
 
 📧 Email  
