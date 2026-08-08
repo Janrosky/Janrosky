@@ -16,6 +16,7 @@ Portfolio showcasing **projects, technical skills, and professional background**
 
 📊 **Conta-Pyme** 
 https://conta-pyme-steel.vercel.app/
+
 Lightweight accounting web app for small and medium businesses (PYMEs) in Costa Rica. Runs entirely in the browser with no backend required.
  
 📄 **Invoice App**  
@@ -31,6 +32,7 @@ Cinematic **landing page example** showcasing premium web design with scroll ani
 
 💰 **Sobres — Envelope Budgeting**
 https://finanzas-jky.vercel.app/
+
 Personal budgeting app based on the envelope method. Allocate income into spending categories and track your budget history period by period — no backend, no accounts, runs directly in the browser.
  
 ---
