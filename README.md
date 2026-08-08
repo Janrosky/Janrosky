@@ -131,7 +131,7 @@ English — B2
 
 # 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Janrosky&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Janrosky&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=dark)
 
 ---
 
