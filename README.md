@@ -32,19 +32,6 @@ Cinematic restaurant landing page with scroll-driven animations, custom cursor i
 
 ---
 
-## 📊 GitHub Language Usage
-
-> Calculated automatically from my public repositories.
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janrosky&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most used languages"
-  />
-</p>
-
----
-
 ## 💻 Languages and Technologies I Enjoy
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -52,8 +39,6 @@ Cinematic restaurant landing page with scroll-driven animations, custom cursor i
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white)
