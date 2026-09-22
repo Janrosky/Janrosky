@@ -1,146 +1,141 @@
 # 👋 Hi, I'm Alejandro Chacón
 
-⚙️ Engineer focused on **Product & Process Engineering, Cloud, and Digital Solutions**.  
-I enjoy building tools that improve workflows, automate processes, and support **data-driven decision making**.
+### Software Development · Cloud · Data & Process Automation
 
-💡 Passionate about **technology, problem solving, and continuous improvement**.
+I build practical digital solutions that automate workflows, organize information, and support better decisions.
 
----
-
-# 🚀 Featured Projects
- 
-🌐 **Personal Portfolio Website**  
-
-https://acg-nextek.vercel.app  
-
-Portfolio showcasing **projects, technical skills, and professional background**.
-
-📊 **Conta-Pyme** 
-
-https://conta-pyme-steel.vercel.app/
-
-Lightweight accounting web app for small and medium businesses (PYMEs) in Costa Rica. Runs entirely in the browser with no backend required.
- 
-📄 **Invoice App**  
-
-https://factura-electronica-jky.vercel.app  
-
-Web application for **electronic invoicing and small business management**.
- 
-🍷 **MOSTO — Mesa, Fuego & Origen**  
-
-https://mosto-cafe.vercel.app
-
-Cinematic **landing page example** showcasing premium web design with scroll animations, custom cursor, and interactive menu — built for a Costa Rican origin-cuisine restaurant.
-
-
-💰 **Sobres — Envelope Budgeting**
-
-https://finanzas-jky.vercel.app/
-
-Personal budgeting app based on the envelope method. Allocate income into spending categories and track your budget history period by period — no backend, no accounts, runs directly in the browser.
- 
----
-
-# 🧰 Technologies & Tools
-
-### ☁️ Certified AWS Cloud Practitioner
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
-
-### 💻 Favorite Frameworks
-![C#](https://img.shields.io/badge/C%23-DotNet-blue?style=for-the-badge&logo=csharp)
-![Oracle](https://img.shields.io/badge/Oracle-APEX-red?style=for-the-badge&logo=oracle)
-
-### 📊 Data
-![PowerBI](https://img.shields.io/badge/PowerBI-Analytics-yellow?style=for-the-badge&logo=powerbi)
-
-### 🖥️ Favorite CLI Tools
-![Linux](https://img.shields.io/badge/Linux-Terminal-black?style=for-the-badge&logo=linux)
-![PowerShell](https://img.shields.io/badge/PowerShell-CLI-blue?style=for-the-badge&logo=powershell)
-![Git](https://img.shields.io/badge/Git-VersionControl-orange?style=for-the-badge&logo=git)
+My background combines software development, data analysis, cloud training, and international technical support. I enjoy turning requirements into functional applications through clean logic, structured data, and continuous improvement.
 
 ---
 
-# ⚙️ Engineering & Professional Skills
+## 🚀 Featured Projects
 
-- Root Cause Analysis
-- Process Improvement
-- Data-Driven Decision Making
-- Technical Troubleshooting
-- Knowledge Management
-- Continuous Improvement
+### 🌐 [ACG Nextek — Personal Portfolio](https://acg-nextek.vercel.app)
 
----
+Personal portfolio showcasing my projects, technical background, and approach to digital solutions.
 
-# 🔄 Agile Methodologies
+### 📊 [ContaPyme](https://conta-pyme-steel.vercel.app/)
 
-Experience working with **Agile frameworks** for collaborative software and engineering development.
+Lightweight accounting web application for Costa Rican small businesses. Designed to support basic accounting workflows directly in the browser.
 
-![Scrum](https://img.shields.io/badge/Scrum-Agile-blue?style=for-the-badge)
+### 🧾 [FacturaCR](https://factura-electronica-jky.vercel.app)
 
-- Scrum development practices  
-- Sprint planning & backlog management  
-- Continuous delivery and iterative improvement  
+Web application for electronic invoicing and small-business management.
 
----
+### 💰 [Sobres — Envelope Budgeting](https://finanzas-jky.vercel.app/)
 
-# 🎓 Education
+Personal budgeting application based on the envelope method for allocating income and tracking spending by period.
 
-**Universidad Estatal a Distancia (UNED)**  
-Information Technology
+### 🍷 [MOSTO — Mesa, Fuego & Origen](https://mosto-cafe.vercel.app)
 
-**Colegio Vocacional de Artes y Oficios (COVAO)**  
-Technical Degree – Automotive Technology
-
-**Centro Cultural Costarricense Norteamericano**  
-English Studies
+Cinematic restaurant landing page with scroll-driven animations, custom cursor interactions, and an interactive menu experience.
 
 ---
 
-# 📜 Certifications
+## 💻 Languages and Technologies I Enjoy
 
-☁️ **AWS Cloud Certification**  
-AWS Re/Start – Elev8 Education
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
-
-# 💼 Professional Experience
-
-### Production / Engineering Support
-Edwards Lifesciences
-
-- Supported production operations and engineering initiatives
-- Participated in knowledge management initiatives such as **Product & Process SME Knowledge**
-- Collaborated with cross-functional teams to improve processes
-
-### Technical Support
-Concentrix
-
-- Resolved complex technical issues related to software and hardware
-- Implemented troubleshooting procedures and support workflows
-
-### Automotive Technician
-AutoStar
-
-- Diagnosed and repaired automotive systems
-- Experience with premium brands such as **Mercedes-Benz** and **Dodge**
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
 
-# 🌍 Languages
+## ☁️ Cloud and Systems
 
-Spanish — Native  
-English — B2
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+AWS is the cloud platform I have studied most deeply through AWS re/Start labs and the AWS Certified Cloud Practitioner certification.
 
 ---
 
-# 📫 Connect With Me
+## 🧠 What I Work With
 
-📧 Email  
-Janrosky@gmail.com
+- Software development with C#, .NET, Java, JavaScript, SQL, PL/SQL, and Oracle APEX
+- Web technologies: HTML5, CSS, JavaScript, Node.js, React, Vue, and React Native
+- Relational databases: Oracle Database and SQL Server
+- Entity Framework, MVC, Windows Forms, APIs, Ajax Callbacks, and Interactive Reports
+- Data analysis with SQL, Power BI, advanced Excel, macros, and JD Edwards
+- Linux, Windows CLI, PowerShell, Git, GitHub, Visual Studio Code, and IntelliJ
+- AI-assisted programming with Codex and Claude Code
 
-💼 LinkedIn  
-https://www.linkedin.com/in/chaconjky
+---
 
-🏅 Credly  
-https://www.credly.com/users/chaconjky
+## ⚙️ Engineering Mindset
+
+- Requirements analysis and business logic
+- Workflow automation
+- Validation and error handling
+- Technical troubleshooting
+- Documentation and knowledge management
+- Data-driven decision making
+- Process improvement
+- Scrum collaboration
+- DMAIC and Six Sigma foundations
+
+---
+
+## 💼 Relevant Experience
+
+### Edwards Lifesciences — Product & Process Engineering Intern
+
+- Led the SME Knowledge initiative and coordinated weekly follow-ups with engineering stakeholders.
+- Supported knowledge management through Articulate Rise 360.
+- Analyzed yield and scrap using SQL, JD Edwards, Power BI, advanced Excel, and macros.
+
+### Navasoft Soluciones — Software Developer Academic Project
+
+- Developed the accounting component of the SAREM ERP.
+- Used Oracle APEX, SQL, PL/SQL, JavaScript, Ajax Callbacks, and Interactive Reports.
+- Implemented accounting logic, exchange-rate differences, validations, and error handling.
+- Worked independently using Scrum.
+
+### Concentrix — Customer Service Representative
+
+- Resolved technical cases for international Apple customers through English chat.
+- Documented resolutions under SLAs and quality standards.
+- Supported peers with complex cases, procedures, and escalations.
+
+---
+
+## 🎓 Education and Certifications
+
+**Computer Engineering — UNED**  
+Coursework and graduation project completed; official credential pending.
+
+**AWS Certified Cloud Practitioner**  
+**AWS re/Start Graduate**
+
+Additional training:
+
+- IBM SkillsBuild — Cybersecurity Fundamentals
+- Cisco — Networking Basics
+- Cisco — Introduction to Cybersecurity
+- Cisco — Python Essentials 1
+
+---
+
+## 🌍 Languages
+
+- Spanish — Native
+- English — B2+ Professional
+
+---
+
+## 📫 Connect With Me
+
+- Portfolio: [acg-nextek.vercel.app](https://acg-nextek.vercel.app)
+- LinkedIn: [linkedin.com/in/chaconjky](https://www.linkedin.com/in/chaconjky)
+- Credly: [credly.com/users/chaconjky](https://www.credly.com/users/chaconjky)
+- GitHub: [github.com/Janrosky](https://github.com/Janrosky)
+- Email: janrosky@gmail.com
