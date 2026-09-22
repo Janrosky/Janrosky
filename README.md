@@ -1,142 +1,109 @@
-# 👋 Hi, I'm Alejandro Chacón
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Janrosky/Janrosky/main/assets/header.svg"
+    alt="Alejandro Chacón — Software, Data and Cloud"
+    width="880"
+  />
+</p>
 
-### Software Development · Cloud · Data & Process Automation
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Janrosky/Janrosky/main/assets/now.svg"
+    alt="Building practical software, data and automation solutions"
+    width="720"
+  />
+</p>
 
-I build practical digital solutions that automate workflows, organize information, and support better decisions.
-
-My background combines software development, data analysis, cloud training, and international technical support. I enjoy turning requirements into functional applications through clean logic, structured data, and continuous improvement.
-
----
-
-## 🚀 Featured Projects
-
-### 🌐 [ACG Nextek — Personal Portfolio](https://acg-nextek.vercel.app)
-
-Personal portfolio showcasing my projects, technical background, and approach to digital solutions.
-
-### 📊 [ContaPyme](https://conta-pyme-steel.vercel.app/)
-
-Lightweight accounting web application for Costa Rican small businesses. Designed to support basic accounting workflows directly in the browser.
-
-### 🧾 [FacturaCR](https://factura-electronica-jky.vercel.app)
-
-Web application for electronic invoicing and small-business management.
-
-### 💰 [Sobres — Envelope Budgeting](https://finanzas-jky.vercel.app/)
-
-Personal budgeting application based on the envelope method for allocating income and tracking spending by period.
-
-### 🍷 [MOSTO — Mesa, Fuego & Origen](https://mosto-cafe.vercel.app)
-
-Cinematic restaurant landing page with scroll-driven animations, custom cursor interactions, and an interactive menu experience.
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-DB2955?style=flat&logo=dotnet&logoColor=white" height="22" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1224?style=flat&logo=javascript&logoColor=F4F4F5" height="22" />
+  <img src="https://img.shields.io/badge/SQL-DB2955?style=flat&logo=database&logoColor=white" height="22" />
+  <img src="https://img.shields.io/badge/AWS-0D1224?style=flat&logo=amazonaws&logoColor=E6406C" height="22" />
+  <img src="https://img.shields.io/badge/Azure-0D1224?style=flat&logo=microsoftazure&logoColor=E6406C" height="22" />
+  <img src="https://img.shields.io/badge/Power_BI-DB2955?style=flat&logo=powerbi&logoColor=white" height="22" />
+</p>
 
 ---
 
-## 💻 Languages and Technologies I Enjoy
+I build practical software, data and automation solutions around real workflows.
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+My interests sit where enterprise applications, relational data, cloud foundations and process improvement meet. I enjoy turning requirements into useful tools that are clear to operate and easier to maintain.
 
----
+## What I work with
 
-## ☁️ Cloud, Data and Systems
+**Software & web**  
+C#, .NET, Java, JavaScript, HTML, CSS, Node.js, React, Vue, React Native, Oracle APEX and PL/SQL.
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+**Data & business systems**  
+SQL Server, Oracle Database, Entity Framework, Power BI, JD Edwards, Excel, macros and process reporting.
 
-AWS and Azure are the cloud platforms I enjoy exploring through practical labs and personal networking projects.
+**Cloud & systems**  
+AWS, Azure personal projects, Linux, Windows CLI, PowerShell, Git, GitHub and GNS3.
 
----
+**Building well**  
+Requirements analysis, business logic, validations, error handling, Scrum, documentation, knowledge management and workflow automation.
 
-## 🧠 What I Work With
+## Selected projects
 
-- Software development with C#, .NET, Java, JavaScript, SQL, PL/SQL, and Oracle APEX
-- Web technologies: HTML5, CSS, JavaScript, Node.js, React, Vue, and React Native
-- Relational databases: Oracle Database and SQL Server
-- Entity Framework, MVC, Windows Forms, APIs, Ajax Callbacks, and Interactive Reports
-- Data analysis with SQL, Power BI, advanced Excel, macros, and JD Edwards
-- Linux, Windows CLI, PowerShell, Git, GitHub, Visual Studio Code, and IntelliJ
-- AI-assisted programming with Codex and Claude Code
+### [ACG Nextek](https://acg-nextek.vercel.app)
 
----
+Personal portfolio and digital-solutions studio focused on software, data and automation.
 
-## ⚙️ Engineering Mindset
+### [ContaPyme](https://conta-pyme-steel.vercel.app/)
 
-- Requirements analysis and business logic
-- Workflow automation
-- Validation and error handling
-- Technical troubleshooting
-- Documentation and knowledge management
-- Data-driven decision making
-- Process improvement
-- Scrum collaboration
-- DMAIC and Six Sigma foundations
+Lightweight accounting application for small businesses in Costa Rica.
 
----
+### [FacturaCR](https://factura-electronica-jky.vercel.app)
 
-## 💼 Relevant Experience
+Electronic invoicing and small-business management application.
 
-### Edwards Lifesciences — Product & Process Engineering Intern
+### [Sobres](https://finanzas-jky.vercel.app/)
 
-- Led the SME Knowledge initiative and coordinated weekly follow-ups with engineering stakeholders.
-- Supported knowledge management through Articulate Rise 360.
-- Analyzed yield and scrap using SQL, JD Edwards, Power BI, advanced Excel, and macros.
+Envelope-budgeting application for organizing personal finances by period and category.
 
-### Navasoft Soluciones — Software Developer Academic Project
+### [MOSTO](https://mosto-cafe.vercel.app)
 
-- Developed the accounting component of the SAREM ERP.
-- Used Oracle APEX, SQL, PL/SQL, JavaScript, Ajax Callbacks, and Interactive Reports.
-- Implemented accounting logic, exchange-rate differences, validations, and error handling.
-- Worked independently using Scrum.
+Interactive restaurant landing page with motion, visual storytelling and a custom user experience.
 
-### Concentrix — Customer Service Representative
+## How I approach work
 
-- Resolved technical cases for international Apple customers through English chat.
-- Documented resolutions under SLAs and quality standards.
-- Supported peers with complex cases, procedures, and escalations.
+- Understand the process, users and constraints before proposing a solution.
+- Translate requirements into clear logic, validations and usable interfaces.
+- Use data and documentation to support better decisions and continuity.
+- Improve in short cycles through feedback, iteration and Scrum practices.
 
----
+## 📊 Activity
 
-## 🎓 Education and Certifications
+<p align="center">
+  <img
+    height="160"
+    src="https://gh-profile-stats.zli39uclan.workers.dev/stats?username=Janrosky&accent=db2955&cell=square&hide_border=true"
+    alt="GitHub statistics for Janrosky"
+  />
+  <img
+    height="160"
+    src="https://gh-profile-stats.zli39uclan.workers.dev/top-langs?username=Janrosky&accent=db2955&cell=square&hide_border=true"
+    alt="Most used languages for Janrosky"
+  />
+</p>
 
-**Computer Engineering — UNED**  
-Coursework and graduation project completed; official credential pending.
+<p align="center">
+  <img
+    width="720"
+    src="https://gh-profile-stats.zli39uclan.workers.dev/activity?username=Janrosky&accent=db2955&cell=square&hide_border=true"
+    alt="GitHub activity for Janrosky"
+  />
+</p>
 
-**AWS Certified Cloud Practitioner**  
-**AWS re/Start Graduate**
+## Learning and certifications
 
-Additional training:
-
+- AWS Certified Cloud Practitioner
+- AWS re/Start Graduate
 - IBM SkillsBuild — Cybersecurity Fundamentals
 - Cisco — Networking Basics
 - Cisco — Introduction to Cybersecurity
 - Cisco — Python Essentials 1
 
----
+## Connect
 
-## 🌍 Languages
-
-- Spanish — Native
-- English — B2+ Professional
-
----
-
-## 📫 Connect With Me
-
-- Portfolio: [acg-nextek.vercel.app](https://acg-nextek.vercel.app)
-- LinkedIn: [linkedin.com/in/chaconjky](https://www.linkedin.com/in/chaconjky)
-- Credly: [credly.com/users/chaconjky](https://www.credly.com/users/chaconjky)
-- GitHub: [github.com/Janrosky](https://github.com/Janrosky)
-- Email: janrosky@gmail.com
+[Portfolio](https://acg-nextek.vercel.app) · [LinkedIn](https://www.linkedin.com/in/chaconjky) · [Credly](https://www.credly.com/users/chaconjky) · [Email](mailto:janrosky@gmail.com)
