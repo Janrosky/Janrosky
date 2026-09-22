@@ -32,6 +32,19 @@ Cinematic restaurant landing page with scroll-driven animations, custom cursor i
 
 ---
 
+## 📊 GitHub Language Usage
+
+> Calculated automatically from my public repositories.
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janrosky&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most used languages"
+  />
+</p>
+
+---
+
 ## 💻 Languages and Technologies I Enjoy
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -47,15 +60,19 @@ Cinematic restaurant landing page with scroll-driven animations, custom cursor i
 
 ---
 
-## ☁️ Cloud and Systems
+## ☁️ Cloud, Data and Systems
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-AWS is the cloud platform I have studied most deeply through AWS re/Start labs and the AWS Certified Cloud Practitioner certification.
+AWS and Azure are the cloud platforms I enjoy exploring through practical labs and personal networking projects.
 
 ---
 
